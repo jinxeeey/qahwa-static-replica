@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 160">
+  <g transform="translate(10, 20)"><rect width="80" height="120" rx="4" fill="#1A1A1A"/><text x="40" y="50" font-family="Manrope, sans-serif" font-size="5" text-anchor="middle" fill="#F5EBD8">QAHWA</text><text x="40" y="70" font-family="Cormorant, serif" font-size="11" text-anchor="middle" fill="#F5EBD8">Atlas</text></g>
+  <g transform="translate(50, 10)"><rect width="80" height="120" rx="4" fill="#C84A2C"/><text x="40" y="50" font-family="Manrope, sans-serif" font-size="5" text-anchor="middle" fill="#F5EBD8">QAHWA</text><text x="40" y="70" font-family="Cormorant, serif" font-size="11" text-anchor="middle" fill="#F5EBD8">Tassili</text></g>
+  <g transform="translate(90, 30)"><rect width="80" height="120" rx="4" fill="#D9C8A8"/><text x="40" y="50" font-family="Manrope, sans-serif" font-size="5" text-anchor="middle" fill="#1A1A1A">QAHWA</text><text x="40" y="70" font-family="Cormorant, serif" font-size="11" text-anchor="middle" fill="#1A1A1A">Casbah</text></g>
+  <g transform="translate(130, 15)"><rect width="80" height="120" rx="4" fill="#E8C49A"/><text x="40" y="50" font-family="Manrope, sans-serif" font-size="5" text-anchor="middle" fill="#1A1A1A">QAHWA</text><text x="40" y="70" font-family="Cormorant, serif" font-size="11" text-anchor="middle" fill="#1A1A1A">Sirocco</text></g>
+</svg>

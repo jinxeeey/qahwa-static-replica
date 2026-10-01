@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 200">
+  <defs><linearGradient id="bg-bottle" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#888"/><stop offset=".15" stop-color="#666"/><stop offset=".4" stop-color="#C84A2C"/><stop offset="1" stop-color="#B33D22"/></linearGradient></defs>
+  <rect x="35" y="5" width="30" height="14" rx="2" fill="#888"/><rect x="32" y="18" width="36" height="8" fill="#444"/><rect x="28" y="26" width="44" height="170" rx="22" fill="url(#bg-bottle)"/><ellipse cx="50" cy="88" rx="6" ry="3" fill="#F5EBD8"/><path d="M 38 102 Q 50 96, 62 102 Q 61 106, 50 105 Q 39 106, 38 102 Z" fill="#F5EBD8"/><path d="M 37 114 Q 50 111, 63 114 L 62 128 Q 50 133, 38 128 Z" fill="#F5EBD8"/>
+</svg>
